@@ -1,0 +1,17 @@
+.containerNav{
+
+}
+    .containerNav ul {
+        list-style: none;
+        display: flex;
+    }
+        .containerNav a{
+            color: #F2F2F2;
+            text-decoration: none;
+            font-family: sans-serif;
+            margin-left: 3em;
+            transition: all 0.3s ease-in-out;
+        }
+            .containerNav a:hover{
+                color: #b8b8b8;
+            }
